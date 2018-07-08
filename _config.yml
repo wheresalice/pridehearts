@@ -1,7 +1,7 @@
 # Site settings
-title: Solo, a Jekyll Theme
-tag_text: Solo
-description: Solo is a Jekyll theme that supports single-page websites only, but supports them well. Yes, it’s responsive.
+title: Pride Hearts
+tag_text: Pride Hearts
+description: A collection of pride hearts to add to your Slack org as emoji.
 
 # Build settings
 markdown: kramdown
