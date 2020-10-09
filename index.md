@@ -16,6 +16,7 @@ layout: default
 | ![heartish](images/heartish.png) | heartish | Unknown |
 | ![intersex-heart](images/intersex-heart.png) | intersex-heart | Unknown |
 | ![leather-heart](images/leather-heart.png) | leather-heart | Unknown |
+| ![lesbian-heart](images/lesbian-heart.png) | lesbian-heart | Unknown |
 | ![neutrois-heart](images/neutrois-heart.png) | neutrois-heart | Unknown |
 | ![pan-heart](images/pan-heart.png) | pan-heart | Unknown |
 | ![pride-heart](images/pride-heart.png) | pride-heart | Unknown |
