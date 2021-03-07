@@ -21,6 +21,7 @@ layout: default
 | ![pan-heart](images/pan-heart.png) | pan-heart | Unknown |
 | ![pride-heart](images/pride-heart.png) | pride-heart | Unknown |
 | ![rainbow-heart](images/rainbow-heart.png) | rainbow-heart | Unknown |
+| ![straight-ally-heart](images/straight-ally-heart.png) | straight-ally-heart | Unknown |
 | ![stroop-hearts](images/stroop-hearts.png) | stroop-hearts | Unknown |
 | ![trans-heart](images/trans-heart.png) | trans-heart | Unknown |
 
