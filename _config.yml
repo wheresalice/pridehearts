@@ -8,3 +8,4 @@ markdown: kramdown
 exclude: ["README.md"]
 sass:
   style: compressed
+include: ["_headers"]
