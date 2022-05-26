@@ -6,6 +6,7 @@ layout: default
 |-------|------|--------|
 | ![ace-heart](images/ace-heart.png) | ace-heart | Unknown |
 | ![agender-heart](images/agender-heart.png) | agender-heart | Unknown |
+| ![aplatonic-heart](images/aplatonic-heart.png) | aplatonic-heart | wheresalice |
 | ![aro-heart](images/aro-heart.png) | aro-heart | Unknown |
 | ![bi-heart](images/bi-heart.png) | bi-heart | Unknown |
 | ![demiboy-heart](images/demiboy-heart.png) | demiboy-heart | Unknown |
