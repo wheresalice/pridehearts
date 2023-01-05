@@ -1,0 +1,17 @@
+{{ define "main" }}
+<h1>Pride Hearts</h1>
+<table>
+    <thead>
+    <tr>
+    <th>Emoji</th>
+    <th>Name</th>
+    </tr>
+    </thead>
+    {{ range $k, $v := .Site.Data.index }}
+  <tr>
+      <td><a href="{{$v}}"><img src="{{$v}}"></a></td><td>{{ $k }}</td>
+  </tr>
+    {{ end }}
+    </table>
+{{ end }}
+
